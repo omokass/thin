@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
