@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Merge pull request #22 from SkalskiP/patch-1
