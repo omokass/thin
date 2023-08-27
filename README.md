@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
