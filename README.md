@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Resize angle, count, and stage on keypoint number change (#7598)
