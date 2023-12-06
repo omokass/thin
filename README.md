@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Update Discord and Contributing Guide URLs (#9270)
