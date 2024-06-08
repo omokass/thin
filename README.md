@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Optimize function calls to method calls (#8507)
