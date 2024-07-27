@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Resize angle, count, and stage on keypoint number change (#7598)
