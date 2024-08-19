@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
