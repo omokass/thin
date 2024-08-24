@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
