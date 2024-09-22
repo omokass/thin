@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
